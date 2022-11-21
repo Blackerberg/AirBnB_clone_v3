@@ -171,4 +171,4 @@ No known bugs at this time.
 
 Odibo Oghenemaro - [Github](https://github.com/Blackerberg) / [Twitter](https://twitter.com/Blackerberg)
 
-Name Surname - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+Frances Odunaiya - [Github](https://github.com/) / [Twitter](https://twitter.com/)
